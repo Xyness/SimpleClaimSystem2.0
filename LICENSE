@@ -1,0 +1,28 @@
+Custom Open Source License
+Copyright (c) 2025 Xyness
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to use,
+study, and modify copies of the Software, subject to the following conditions:
+
+1. Attribution
+   You must retain clear credit to the original author ("Xyness") in all
+   distributed copies or substantial portions of the Software. This includes, but is
+   not limited to, mentions in the README file, plugin.yml, or any public-facing metadata.
+
+2. Non-Commercial Use
+   The Software may not be sold, sublicensed, or included in any commercial offering
+   without the prior written permission of the original author (Xyness).
+
+3. No Rebranding
+   You may not rename or rebrand the plugin "SimpleClaimSystem" when distributing modified
+   or unmodified versions. Forks must preserve the original plugin name and acknowledge the author.
+
+4. Disclaimer of Warranty
+   The Software is provided "as is", without warranty of any kind, express or implied,
+   including but not limited to the warranties of merchantability, fitness for a particular
+   purpose and noninfringement. In no event shall the author be liable for any claim,
+   damages or other liability, whether in an action of contract, tort or otherwise, arising
+   from, out of or in connection with the Software or the use or other dealings in the Software.
+
+By using, copying, modifying, or distributing this software, you accept the terms above.

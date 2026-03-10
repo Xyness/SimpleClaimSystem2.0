@@ -1,10 +1,9 @@
 # Version
-version: 2.0.20
+version: 2.0.21
 
 # Update date
 date: 10/03/2026
 
 # Update notes
 update-notes:
-- Add QuickShop-Hikari compatibility (you can now use shops across claims)
-- Fix WorldGuard region minor issue
+- Fix minor issues on flag CROSS_STRUCTURE_GROWTH

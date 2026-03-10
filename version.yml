@@ -1,9 +1,11 @@
 # Version
-version: 2.0.18
+version: 2.0.19
 
 # Update date
 date: 10/03/2026
 
 # Update notes
 update-notes:
-- test
+- Fix WorldGuard hook issue
+- Change the update checker system
+- Fix the issue during server start (DB closed)

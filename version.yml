@@ -1,9 +1,10 @@
 # Version
-version: 2.0.22
+version: 2.0.23
 
 # Update date
-date: 10/03/2026
+date: 11/03/2026
 
 # Update notes
 update-notes:
-- Add some checks for flags
+- Add floodgate integration
+- Add new permission RECEIVE_BEACON_EFFECTS to prevent players from receiving effects from beacons in claims

@@ -1,10 +1,12 @@
 # Version
-version: 2.0.23
+version: 2.0.24
 
 # Update date
-date: 11/03/2026
+date: 12/03/2026
 
 # Update notes
 update-notes:
-- Add floodgate integration
-- Add new permission RECEIVE_BEACON_EFFECTS to prevent players from receiving effects from beacons in claims
+- Fix bed place issue
+- Fix leash issue
+- Optimize some methods
+- Fix permission minor issue

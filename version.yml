@@ -1,10 +1,9 @@
 # Version
-version: 2.0.26
+version: 2.0.27
 
 # Update date
 date: 26/03/2026
 
 # Update notes
 update-notes:
-- Add placeholder %scs_claim_name% to show claim name at player's current location
-- Add placeholder %scs_claim_player_role% to show player's role at player's current location
+- Fix permission issue

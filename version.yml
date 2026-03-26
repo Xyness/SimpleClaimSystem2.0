@@ -9,3 +9,4 @@ update-notes:
 - Fix issue on teleportation
 - Add GriefPrevention support to import its claims
 - Fix chunk retrevial on Folia
+- Fix fly minor issue
